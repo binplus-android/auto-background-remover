@@ -46,7 +46,7 @@ Add the dependency
 
 ```groovy
 dependencies {
-    implementation 'com.github.GhayasAhmad:auto-background-remover:1.0.7'
+    implementation 'com.github.binplus-android:auto-background-remover:1.0.7'
 }
 ```
 
